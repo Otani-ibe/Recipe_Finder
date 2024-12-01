@@ -1,6 +1,6 @@
-# Recipe Finder Website
+# Recipe Finder!
 
-A **Recipe Finder Website** that allows users to search for recipes based on keywords, filter results by cuisine and diet type, and view detailed recipe information using the Spoonacular API.
+ **Recipe Finder** Is a helpful website that helps people find recipes easily. It lets users search for food recipes, see details about cooking, and discover new meals to try at home. In today's fast-paced world, finding the right recipe can be challenging, and this application aims to bridge that gap by providing an intuitive, user-friendly platform for recipe discovery. 
 
 ---
 
@@ -71,7 +71,7 @@ To use this project, you need a valid Spoonacular API key. Sign up on [RapidAPI]
    - Click on any recipe card to view detailed information.
 
 4. **Close Details Modal:**
-   - Click the "X" button or anywhere outside the modal to close it.
+   - Click anywhere outside the modal to close it.
 
 ---
 
